@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+tensorflow==2.17.1
+tf-keras
+keybert
+sentence-transformers
+streamlit
+transformers safetensors
